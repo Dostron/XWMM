@@ -7,12 +7,8 @@ WIMM is a cross platform tool to manage the Kodi Media Databases. It is complete
 This tool is intended to facilitate the use of the Kodi media management features (media infos, media categorization, scraping, etc ...)
 
 #### Useful Links
-* [Releases](https://github.com/slash2009/XWMM/releases "Grab the very latest WIMM release")
+* [Releases](https://github.com/Dostron/XWMM/releases "Grab the very latest WIMM release")
 * [Support and discussion thread](http://forum.kodi.tv/showthread.php?tid=188839 "Support and discussion forum thread")
-* [Report an issue or make feature request](https://github.com/slash2009/XWMM/issues "Report an issue  Report an issue or make feature request")
-* [F.A.Q. - <b>F</b>requently <b>A</b>sked <b>Q</b>uestions](https://github.com/slash2009/XWMM/wiki/F.A.Q.-Frequently-asked-questions "F.A.Q. - Frequently Asked Questions")
-* [WIMM wiki](https://github.com/slash2009/XWMM/wiki "WIMM Wiki open to you!")
-* [##wimm] (https://webchat.freenode.net/?channels=##wimm "click here to join ##wimm via webchat") official channel via freenode IRC.
 
 - - -
 
@@ -24,7 +20,7 @@ Consider joining the **WIMM** project, and help this web-interface for Kodi be *
 ### Installation Instructions
 
 - Install WIMM:
-  - Download [WIMM](https://github.com/slash2009/XWMM/releases)
+  - Download [WIMM](https://github.com/Dostron/XWMM/releases)
   - Go to System > Add-ons
   - Select **[Install from a zip file](http://kodi.wiki/view/HOW-TO:Install_an_Add-on_from_a_zip_file "HOW-TO:Install an Add-on from a zip file")**
 
@@ -40,5 +36,6 @@ The idea is to fork this repo work on your changes and make a pull request (PR) 
 
 #### What will happen to patches & PR's
 * Subject to review and is merged as soon as possible by a member of the project.
+
 
 - - -
