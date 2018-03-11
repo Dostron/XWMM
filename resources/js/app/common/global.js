@@ -5,6 +5,7 @@
  * Copyright 2013 nwtn.
  * Copyright 2013, 2014 Andrew Fyfe.
  * Copyright 2014 criticalfiction.
+ * Copyright 2014 DOSTRON.
  *
  * This file is part of Web interface Media Manager (WIMM) for kodi.
  *
@@ -22,7 +23,7 @@
  * along with WIMM.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-var myVersion = '4.1.23';
+var myVersion = '4.2.0';
 
 /**
  * Protect window.console method calls, e.g. console is not defined on IE
