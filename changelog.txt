@@ -1,4 +1,6 @@
 # WIMM Changelog
+4.2.0
+Fixed for Kodi Krypton 17.6 (Release)
 
 4.1.27
 First bunch of bugfixes in js for Kodi Krypton Lybrary (not finished)
